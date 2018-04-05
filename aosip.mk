@@ -26,6 +26,10 @@ PRODUCT_DEVICE := angler
 PRODUCT_MODEL := Nexus 6P
 PRODUCT_MANUFACTURER := Huawei
 
+# Maintainer
+PRODUCT_BUILD_PROP_OVERRIDES += \
+DEVICE_MAINTAINERS="Sri Harsha(srisurya95)"
+
 # Device Fingerprint
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=angler \
