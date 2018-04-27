@@ -302,8 +302,8 @@ PRODUCT_PACKAGES += \
     wpa_supplicant.conf
 
 # Misc
-PRODUCT_PACKAGES += \
-    AOSPLinks
+#PRODUCT_PACKAGES += \
+#    AOSPLinks
 
 # Bluetooth HAL
 PRODUCT_PACKAGES += \
